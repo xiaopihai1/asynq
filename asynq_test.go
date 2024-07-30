@@ -14,8 +14,8 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/hibiken/asynq/internal/log"
-	h "github.com/hibiken/asynq/internal/testutil"
+	"github.com/xiaopihai1/asynq/internal/log"
+	h "github.com/xiaopihai1ai1/asynq/internal/testutil"
 )
 
 //============================================================================
